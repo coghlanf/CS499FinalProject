@@ -28,24 +28,24 @@
   </li>
   <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
     <ul>
-      <li>
-        <strong>Software Design and Engineering</strong>: 
-        <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2005.22.25.zip" download>Download</a>
-      </li>
-      <li>
-        <strong>Algorithms and Data Structures</strong>: 
-        <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2005.29.25.zip" download>Download</a>
-      </li>
-      <li>
-        <strong>Databases</strong>: 
-        <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2006.02.25.zip" download>Download</a>
-      </li>
-    </ul>
+  <li>
+    <strong>Software Design and Engineering</strong>: 
+    <a href="https://drive.google.com/your-shared-link1" target="_blank">Download from Google Drive</a>
   </li>
   <li>
-    <strong>Final Version of the App</strong> (fully enhanced): 
-    <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2006.16.25.zip" download>Download</a>
+    <strong>Algorithms and Data Structures</strong>: 
+    <a href="https://drive.google.com/your-shared-link2" target="_blank">Download from Google Drive</a>
   </li>
+  <li>
+    <strong>Databases</strong>: 
+    <a href="https://drive.google.com/your-shared-link3" target="_blank">Download from Google Drive</a>
+  </li>
+  <li>
+    <strong>Final Version</strong> (fully enhanced): 
+    <a href="https://drive.google.com/your-shared-link4" target="_blank">Download from Google Drive</a>
+  </li>
+</ul>
+
   <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
   <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
 </ul>
