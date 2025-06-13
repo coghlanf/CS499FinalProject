@@ -36,3 +36,22 @@
 
   <p>Each enhancement aligns with specific <em>course outcomes</em> and showcases the depth of my technical knowledge, critical thinking, and ability to deliver reliable, user-friendly software. Together, these artifacts tell the story of my development as a computer science professional ready to enter the field with confidence and creativity.</p>
 </section>
+
+<h2>What This ePortfolio Contains</h2>
+<ul>
+  <li>A <strong>code review video</strong> describing the original artifact and enhancement plans.</li>
+  <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
+    <ul>
+      <li>Software Design and Engineering</li>
+      <li>Algorithms and Data Structures</li>
+      <li>Databases</li>
+    </ul>
+  </li>
+  <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
+  <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
+</ul>
+
+
+
+
+
