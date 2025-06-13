@@ -19,7 +19,7 @@
   <h2>Career Aspirations</h2>
   <p>My immediate career goal is to transition into a remote software development role that allows me to build meaningful, user-centered applications. I am particularly interested in mobile development and backend data handling. Long-term, I intend to specialize further in full-stack engineering and eventually contribute to software architecture decisions at an organizational level. This ePortfolio helps position me for those opportunities by clearly presenting my applied skills and the tangible outcomes of my work.</p>
 
-  <h2>Portfolio Overview</h2>
+<h2>Portfolio Overview</h2>
 <p>This ePortfolio contains:</p>
 <ul>
   <li>
@@ -28,14 +28,28 @@
   </li>
   <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
     <ul>
-      <li>Software Design and Engineering</li>
-      <li>Algorithms and Data Structures</li>
-      <li>Databases</li>
+      <li>
+        <strong>Software Design and Engineering</strong>: 
+        <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2005.22.25.zip" download>Download</a>
+      </li>
+      <li>
+        <strong>Algorithms and Data Structures</strong>: 
+        <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2005.29.25.zip" download>Download</a>
+      </li>
+      <li>
+        <strong>Databases</strong>: 
+        <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2006.02.25.zip" download>Download</a>
+      </li>
     </ul>
+  </li>
+  <li>
+    <strong>Final Version of the App</strong> (fully enhanced): 
+    <a href="YOUR_REPO_LINK/CS499WeightTrackerFinal%2006.16.25.zip" download>Download</a>
   </li>
   <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
   <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
 </ul>
+
 
   <p>Each enhancement aligns with specific <em>course outcomes</em> and showcases the depth of my technical knowledge, critical thinking, and ability to deliver reliable, user-friendly software. Together, these artifacts tell the story of my development as a computer science professional ready to enter the field with confidence and creativity.</p>
 </section>
