@@ -28,24 +28,25 @@
   </li>
   <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
     <ul>
-  <li>
-    <strong>Software Design and Engineering</strong>: 
-    <a href="[https://drive.google.com/your-shared-link1" target=](https://drive.google.com/file/d/1zaSNtRdl-s43xBWz4__1I7r5ToI5jUja/view?usp=sharing)" target=_blank">Download from Google Drive</a>
-  </li>
-  <li>
-    <strong>Algorithms and Data Structures</strong>: 
-    <a href="[https://drive.google.com/your-shared-link2](https://drive.google.com/file/d/1hH4I4JiBqclSYB4Zc9Hd5lh8V8_KH9mv/view?usp=sharing)" target="_blank">Download from Google Drive</a>
-  </li>
-  <li>
-    <strong>Databases</strong>: 
-    <a href="[https://drive.google.com/your-shared-link3](https://drive.google.com/file/d/1LTYa49SaSjqb7jfMdzDdADcY5GrTYcgn/view?usp=sharing)" target="_blank">Download from Google Drive</a>
-  </li>
-  <li>
-    <strong>Final Version</strong> (fully enhanced): 
-    <a href="[https://drive.google.com/your-shared-link4](https://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing)" target="_blank">Download from Google Drive</a>
+      <li>
+        <strong>Software Design and Engineering</strong>: 
+        <a href="https://drive.google.com/file/d/1zaSNtRdl-s43xBWz4__1I7r5ToI5jUja/view?usp=sharing" target="_blank">Download from Google Drive</a>
+      </li>
+      <li>
+        <strong>Algorithms and Data Structures</strong>: 
+        <a href="https://drive.google.com/file/d/1hH4I4JiBqclSYB4Zc9Hd5lh8V8_KH9mv/view?usp=sharing" target="_blank">Download from Google Drive</a>
+      </li>
+      <li>
+        <strong>Databases</strong>: 
+        <a href="https://drive.google.com/file/d/1LTYa49SaSjqb7jfMdzDdADcY5GrTYcgn/view?usp=sharing" target="_blank">Download from Google Drive</a>
+      </li>
+      <li>
+        <strong>Final Version</strong> (fully enhanced): 
+        <a href="https://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing" target="_blank">Download from Google Drive</a>
+      </li>
+    </ul>
   </li>
 </ul>
-
   <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
   <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
 </ul>
