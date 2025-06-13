@@ -7,10 +7,10 @@
 
   <h2>Strengths Gained Through the Program</h2>
   <ul>
-    <li><strong>Software Engineering & Design:</strong> I applied the Model-View-ViewModel (MVVM) architecture and repository patterns to improve modularity, scalability, and separation of concerns within the app. These patterns, along with a rigorous refactor of UI logic, reflect my strong grasp of modern design principles.</li>
-    <li><strong>Algorithms & Data Structures:</strong> I designed and implemented a weekly trend detection algorithm using <code>TreeMap</code>, <code>LocalDate</code>, and structured sorting logic. This provided me with firsthand experience translating domain problems into efficient, testable algorithmic solutions.</li>
-    <li><strong>Databases:</strong> I integrated the Room persistence library to replace in-memory data storage with a robust, lifecycle-aware database system. Additionally, I utilized SharedPreferences to handle lightweight user settings, ensuring the app retained data across sessions.</li>
-    <li><strong>Security Mindset:</strong> I developed secure data-handling practices, such as proper use of Android’s SharedPreferences for sensitive information and contextual data validation to avoid crashes or data leaks.</li>
+    <li><strong>Software Engineering & Design:</strong> Applied the Model-View-ViewModel (MVVM) architecture and repository patterns to improve modularity, scalability, and separation of concerns within the app.</li>
+    <li><strong>Algorithms & Data Structures:</strong> Designed a weekly trend detection algorithm using <code>TreeMap</code> and <code>LocalDate</code> to provide insight into health patterns.</li>
+    <li><strong>Databases:</strong> Integrated the Room persistence library and SharedPreferences to manage both structured and lightweight user data across sessions.</li>
+    <li><strong>Security Mindset:</strong> Ensured safe storage of user settings and implemented best practices to protect sensitive data.</li>
   </ul>
 
   <h2>Collaboration, Communication, and Growth</h2>
@@ -19,40 +19,35 @@
   <h2>Career Aspirations</h2>
   <p>My immediate career goal is to transition into a remote software development role that allows me to build meaningful, user-centered applications. I am particularly interested in mobile development and backend data handling. Long-term, I intend to specialize further in full-stack engineering and eventually contribute to software architecture decisions at an organizational level. This ePortfolio helps position me for those opportunities by clearly presenting my applied skills and the tangible outcomes of my work.</p>
 
-<h2>Portfolio Overview</h2>
-<p>This ePortfolio contains:</p>
-<ul>
-  <li>
-    A <strong>code review video</strong> describing the original artifact and enhancement plans: 
-    <a href="https://www.youtube.com/watch?v=qd9zIlDoPJo" target="_blank">CS 499 Capstone Code Review: FLC Weight Tracker Enhancement Overview</a>
-  </li>
-  <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
-    <ul>
-      <li>
-        <strong>Software Design and Engineering</strong>: 
-        <a href="https://drive.google.com/file/d/1zaSNtRdl-s43xBWz4__1I7r5ToI5jUja/view?usp=sharing" target="_blank">Download from Google Drive</a>
-      </li>
-      <li>
-        <strong>Algorithms and Data Structures</strong>: 
-        <a href="https://drive.google.com/file/d/1hH4I4JiBqclSYB4Zc9Hd5lh8V8_KH9mv/view?usp=sharing" target="_blank">Download from Google Drive</a>
-      </li>
-      <li>
-        <strong>Databases</strong>: 
-        <a href="https://drive.google.com/file/d/1LTYa49SaSjqb7jfMdzDdADcY5GrTYcgn/view?usp=sharing" target="_blank">Download from Google Drive</a>
-      </li>
-      <li>
-        <strong>Final Version</strong> (fully enhanced): 
-        <a href="https://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing" target="_blank">Download from Google Drive</a>
-      </li>
-    </ul>
-  </li>
-</ul>
-  <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
-  <p><strong>Software Design and Engineering:</strong> This enhancement focused on restructuring the original FLC Weight Tracker App using modern architectural patterns to ensure modularity, maintainability, and testability. I adopted the Model-View-ViewModel (MVVM) design pattern and introduced a repository layer to separate concerns between UI logic and data access. This refactor improved scalability and facilitated better lifecycle management using Android Architecture Components. I also implemented LiveData and ViewModel to ensure reactive and lifecycle-aware data binding across screens. As a result, the application now handles configuration changes gracefully and maintains a clean separation of logic. Through this enhancement, I demonstrated skills in architecture design, refactoring legacy code, and integrating Android Jetpack components. It aligns with Course Outcome #4 by using innovative software engineering techniques to implement value-driven solutions tailored to mobile environments.</p> <p><strong>Algorithms and Data Structures:</strong> In this enhancement, I implemented a custom weekly trend detection algorithm to calculate average weight trends over time. Using <code>TreeMap</code> and <code>java.time.LocalDate</code>, I designed a strategy to sort weight entries by date and group them into ISO calendar weeks. I then calculated the average weight per week and exposed the result to the UI using LiveData. This enhancement transformed the user experience by providing meaningful feedback about progress toward health goals. It also required applying foundational knowledge of data structures (maps, lists), sorting algorithms, and temporal logic. This work reflects my ability to design and implement algorithmic solutions, satisfying Course Outcome #3 related to solving computing problems using algorithmic principles while considering trade-offs in performance and complexity.</p> <p><strong>Databases:</strong> To address the lack of persistence in the original application, I integrated the Room persistence library to manage structured data storage for weight entries. I created an <code>Entity</code> class, <code>DAO</code> interface, and a <code>RoomDatabase</code> instance, establishing a complete local SQLite-backed solution. I also used <code>LiveData</code> to ensure that changes to the database were automatically reflected in the UI. Additionally, I incorporated <code>SharedPreferences</code> to store lightweight user-specific data such as name, email, password, weight goals, and notification preferences. This dual-layered data persistence ensures that both complex and simple data types are retained across sessions. With these enhancements, the app is now robust, user-friendly, and aligned with best practices in mobile database architecture. This work directly supports Course Outcome #4 and also touches on Outcome #5 by ensuring user data is handled securely and appropriately scoped between Room and preferences.</p> <p>Collectively, these enhancements demonstrate my growth across the three pillars of computer science: thoughtful software design, efficient algorithm development, and robust data handling. Each enhancement was documented with screenshots and versioned code to show progress from the original prototype to a refined, production-quality Android application. The artifacts and their narratives illustrate how I translated academic knowledge into a real-world deliverable, aligning with the goals and rigor of the CS 499 Capstone project.</p>
-   
-  <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
-</ul>
+  <h2>Portfolio Overview</h2>
+  <p>This ePortfolio contains:</p>
+  <ul>
+    <li>
+      A <strong>code review video</strong> describing the original artifact and enhancement plans: 
+      <a href="https://www.youtube.com/watch?v=qd9zIlDoPJo" target="_blank">CS 499 Capstone Code Review: FLC Weight Tracker Enhancement Overview</a>
+    </li>
+    <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
+      <ul>
+        <li><strong>Software Design and Engineering:</strong> <a href="https://drive.google.com/file/d/1zaSNtRdl-s43xBWz4__1I7r5ToI5jUja/view?usp=sharing" target="_blank">Download</a></li>
+        <li><strong>Algorithms and Data Structures:</strong> <a href="https://drive.google.com/file/d/1hH4I4JiBqclSYB4Zc9Hd5lh8V8_KH9mv/view?usp=sharing" target="_blank">Download</a></li>
+        <li><strong>Databases:</strong> <a href="https://drive.google.com/file/d/1LTYa49SaSjqb7jfMdzDdADcY5GrTYcgn/view?usp=sharing" target="_blank">Download</a></li>
+        <li><strong>Final Version (fully enhanced):</strong> <a href="https://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing" target="_blank">Download</a></li>
+      </ul>
+    </li>
+    <li>Detailed <strong>narratives</strong> for each enhancement:</li>
+  </ul>
 
+  <div style="margin-top: 20px;">
+    <p><strong>Software Design and Engineering:</strong> This enhancement focused on restructuring the original FLC Weight Tracker App using modern architectural patterns to ensure modularity, maintainability, and testability. I adopted the Model-View-ViewModel (MVVM) design pattern and introduced a repository layer to separate concerns between UI logic and data access. This refactor improved scalability and facilitated better lifecycle management using Android Architecture Components. I also implemented LiveData and ViewModel to ensure reactive and lifecycle-aware data binding across screens. As a result, the application now handles configuration changes gracefully and maintains a clean separation of logic. Through this enhancement, I demonstrated skills in architecture design, refactoring legacy code, and integrating Android Jetpack components. It aligns with Course Outcome #4 by using innovative software engineering techniques to implement value-driven solutions tailored to mobile environments.</p>
+
+    <p><strong>Algorithms and Data Structures:</strong> In this enhancement, I implemented a custom weekly trend detection algorithm to calculate average weight trends over time. Using <code>TreeMap</code> and <code>java.time.LocalDate</code>, I designed a strategy to sort weight entries by date and group them into ISO calendar weeks. I then calculated the average weight per week and exposed the result to the UI using LiveData. This enhancement transformed the user experience by providing meaningful feedback about progress toward health goals. It also required applying foundational knowledge of data structures (maps, lists), sorting algorithms, and temporal logic. This work reflects my ability to design and implement algorithmic solutions, satisfying Course Outcome #3 related to solving computing problems using algorithmic principles while considering trade-offs in performance and complexity.</p>
+
+    <p><strong>Databases:</strong> To address the lack of persistence in the original application, I integrated the Room persistence library to manage structured data storage for weight entries. I created an <code>Entity</code> class, <code>DAO</code> interface, and a <code>RoomDatabase</code> instance, establishing a complete local SQLite-backed solution. I also used <code>LiveData</code> to ensure that changes to the database were automatically reflected in the UI. Additionally, I incorporated <code>SharedPreferences</code> to store lightweight user-specific data such as name, email, password, weight goals, and notification preferences. This dual-layered data persistence ensures that both complex and simple data types are retained across sessions. With these enhancements, the app is now robust, user-friendly, and aligned with best practices in mobile database architecture. This work directly supports Course Outcome #4 and also touches on Outcome #5 by ensuring user data is handled securely and appropriately scoped between Room and preferences.</p>
+  </div>
+
+  <ul>
+    <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
+  </ul>
 
   <p>Each enhancement aligns with specific <em>course outcomes</em> and showcases the depth of my technical knowledge, critical thinking, and ability to deliver reliable, user-friendly software. Together, these artifacts tell the story of my development as a computer science professional ready to enter the field with confidence and creativity.</p>
 </section>
