@@ -25,13 +25,16 @@
     <li>
       A <strong>code review video</strong> describing the original artifact and enhancement plans: 
       <a href="https://www.youtube.com/watch?v=qd9zIlDoPJo" target="_blank">CS 499 Capstone Code Review: FLC Weight Tracker Enhancement Overview</a>
+      <p></p>
     </li>
     <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
+      <p></p>
       <ul>
         <li><strong>Software Design and Engineering:</strong> <a href="https://drive.google.com/file/d/1zaSNtRdl-s43xBWz4__1I7r5ToI5jUja/view?usp=sharing" target="_blank">Download</a></li>
         <li><strong>Algorithms and Data Structures:</strong> <a href="https://drive.google.com/file/d/1hH4I4JiBqclSYB4Zc9Hd5lh8V8_KH9mv/view?usp=sharing" target="_blank">Download</a></li>
         <li><strong>Databases:</strong> <a href="https://drive.google.com/file/d/1LTYa49SaSjqb7jfMdzDdADcY5GrTYcgn/view?usp=sharing" target="_blank">Download</a></li>
         <li><strong>Final Version (fully enhanced):</strong> <a href="https://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing" target="_blank">Download</a></li>
+        <p></p>
       </ul>
     </li>
     <li>Detailed <strong>narratives</strong> for each enhancement:</li>
