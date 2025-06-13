@@ -30,7 +30,7 @@
     <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
       <p></p>
       <ul>
-        <li><strong>Original Version:</strong> <a href="h[ttps://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing](https://drive.google.com/file/d/11prLQ88WWBMsZjxr_fLgy-hPftzgrlUr/view?usp=sharing)" target="_blank">Download</a></li>
+        <li><strong>Original Version:</strong> <a href="https://drive.google.com/file/d/13EhIfWzuy95sW_yZjMIotzky3qffnDPA/view?usp=sharing" target="_blank">Download</a></li>
         <li><strong>Software Design and Engineering:</strong> <a href="https://drive.google.com/file/d/1zaSNtRdl-s43xBWz4__1I7r5ToI5jUja/view?usp=sharing" target="_blank">Download</a></li>
         <li><strong>Algorithms and Data Structures:</strong> <a href="https://drive.google.com/file/d/1hH4I4JiBqclSYB4Zc9Hd5lh8V8_KH9mv/view?usp=sharing" target="_blank">Download</a></li>
         <li><strong>Databases:</strong> <a href="https://drive.google.com/file/d/1LTYa49SaSjqb7jfMdzDdADcY5GrTYcgn/view?usp=sharing" target="_blank">Download</a></li>
