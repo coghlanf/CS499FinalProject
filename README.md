@@ -58,8 +58,30 @@
 
 
   <ul>
-    <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
-  </ul>
+  <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
+</ul>
+
+<div style="margin-top: 10px; margin-bottom: 30px;">
+  <figure style="text-align: center;">
+    <img src="https://github.com/coghlanf/CS499FinalProject/raw/main/Pic1.png" alt="Profile screen before and after" style="max-width: 90%; height: auto; border: 1px solid #ccc;">
+    <figcaption><em>Fig 1. Profile screen now includes a welcome message and saves data between sessions (Database + Software Design)</em></figcaption>
+  </figure>
+
+  <br>
+
+  <figure style="text-align: center;">
+    <img src="https://github.com/coghlanf/CS499FinalProject/raw/main/Pic2.png" alt="Weight Tracker improved" style="max-width: 90%; height: auto; border: 1px solid #ccc;">
+    <figcaption><em>Fig 2. Improved weight tracking screen with goal instructions, delete option, trend insights, and persistent data (All 3 Enhancements)</em></figcaption>
+  </figure>
+
+  <br>
+
+  <figure style="text-align: center;">
+    <img src="https://github.com/coghlanf/CS499FinalProject/raw/main/Pic3.png" alt="Notification preference persistence" style="max-width: 90%; height: auto; border: 1px solid #ccc;">
+    <figcaption><em>Fig 3. Notification preference is now remembered across sessions using SharedPreferences (Database + Software Design)</em></figcaption>
+  </figure>
+</div>
+
 
   <p>Each enhancement aligns with specific <em>course outcomes</em> and showcases the depth of my technical knowledge, critical thinking, and ability to deliver reliable, user-friendly software. Together, these artifacts tell the story of my development as a computer science professional ready to enter the field with confidence and creativity.</p>
 </section>
