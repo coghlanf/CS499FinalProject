@@ -1,3 +1,10 @@
+<div style="font-size: 12px; color: #555; text-align: right; margin-top: 10px; margin-bottom: 20px;">
+  CS-499-11684-M01<br>
+  Professor Fitzroy Nembhard<br>
+  Fernanda Coghlan<br>
+  16 June 2025
+</div>
+
 <section id="self-assessment">
   <h1>Professional Self-Assessment</h1>
 
