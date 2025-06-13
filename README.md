@@ -20,19 +20,22 @@
   <p>My immediate career goal is to transition into a remote software development role that allows me to build meaningful, user-centered applications. I am particularly interested in mobile development and backend data handling. Long-term, I intend to specialize further in full-stack engineering and eventually contribute to software architecture decisions at an organizational level. This ePortfolio helps position me for those opportunities by clearly presenting my applied skills and the tangible outcomes of my work.</p>
 
   <h2>Portfolio Overview</h2>
-  <p>This ePortfolio contains:</p>
-  <ul>
-    <li>A <strong>code review video</strong> describing the original artifact and enhancement plans.</li>
-    <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
-      <ul>
-        <li>Software Design and Engineering</li>
-        <li>Algorithms and Data Structures</li>
-        <li>Databases</li>
-      </ul>
-    </li>
-    <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
-    <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
-  </ul>
+<p>This ePortfolio contains:</p>
+<ul>
+  <li>
+    A <strong>code review video</strong> describing the original artifact and enhancement plans: 
+    <a href="https://www.youtube.com/watch?v=qd9zIlDoPJo" target="_blank">CS 499 Capstone Code Review: FLC Weight Tracker Enhancement Overview</a>
+  </li>
+  <li>Three enhanced versions of the <strong>FLC Weight Tracker App</strong>, demonstrating growth across:
+    <ul>
+      <li>Software Design and Engineering</li>
+      <li>Algorithms and Data Structures</li>
+      <li>Databases</li>
+    </ul>
+  </li>
+  <li>Detailed <strong>narratives</strong> for each enhancement, explaining the purpose, implementation, skills demonstrated, and course outcomes achieved.</li>
+  <li><strong>Screenshots and walkthroughs</strong> showing before-and-after views of the code and UI.</li>
+</ul>
 
   <p>Each enhancement aligns with specific <em>course outcomes</em> and showcases the depth of my technical knowledge, critical thinking, and ability to deliver reliable, user-friendly software. Together, these artifacts tell the story of my development as a computer science professional ready to enter the field with confidence and creativity.</p>
 </section>
