@@ -82,6 +82,7 @@
   </figure>
 </div>
 
+<p></p>
 
   <p>Each enhancement aligns with specific <em>course outcomes</em> and showcases the depth of my technical knowledge, critical thinking, and ability to deliver reliable, user-friendly software. Together, these artifacts tell the story of my development as a computer science professional ready to enter the field with confidence and creativity.</p>
 </section>
